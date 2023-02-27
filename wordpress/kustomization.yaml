@@ -1,4 +1,4 @@
-namespace: wordpress
+namespace: wordpress-local
 secretGenerator:
 - name: mysql-pass
   literals:
